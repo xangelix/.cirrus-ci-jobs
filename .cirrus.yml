@@ -1,0 +1,5 @@
+osx_instance:
+  image: catalina-xcode
+
+task:
+  script: echo "Hello World from macOS!"
